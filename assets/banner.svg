@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="TEDxUMT Lahore — An event website for ideas worth sharing.">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#152c35"/></linearGradient><linearGradient id="ink"><stop stop-color="#ff675f"/><stop offset="1" stop-color="#edf9ff"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#ffffff" stroke-opacity=".04"/></pattern></defs>
+<rect width="1280" height="360" rx="20" fill="url(#bg)"/><rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+<rect x="54" y="52" width="32" height="4" rx="2" fill="#ff675f"/><text x="101" y="59" fill="#ff675f" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">02 / TEAM PROJECT</text>
+<text x="54" y="160" fill="url(#ink)" font-family="Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="-2">TEDxUMT Lahore</text>
+<text x="56" y="207" fill="#bdcad9" font-family="Arial,sans-serif" font-size="23">An event website for ideas worth sharing.</text>
+<path d="M56 257H680" stroke="#334555"/><text x="56" y="297" fill="#8a9eb3" font-family="Arial,sans-serif" font-size="15" letter-spacing="2">SAAD ZAFAR  /  SELECTED WORK</text>
+<g transform="translate(895 65)" fill="none"><path d="M15 15L260 245M260 15L15 245" stroke="#ed263a" stroke-width="55" opacity=".82"/><rect x="-15" y="-10" width="310" height="285" rx="16" stroke="#ff8b87" stroke-opacity=".25"/><circle cx="280" cy="5" r="9" fill="#ff8b87"/></g>
+</svg>
